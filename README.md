@@ -1,0 +1,1 @@
+Este proyecto es una calculadora modular escrita en Python. La calculadora permite realizar operaciones matemáticas básicas como suma, resta, multiplicación, división y potencia. El proyecto está organizado en varios módulos para mantener el código limpio y modular.
